@@ -1,5 +1,5 @@
-streamlit
-opencv-python
-numpy
-pandas
-pillow
+streamlit>=1.20
+opencv-python-headless==4.8.0.76
+numpy>=1.23
+pandas>=1.5
+pillow>=9.2
